@@ -1,11 +1,11 @@
-# 🛍️ Product Manager App
+#Product Manager App
 
 A simple React application to manage products with add, edit, delete, and wishlist functionality.  
 All data is stored locally in `localStorage` — no external API required.
 
 ---
 
-## 🚀 Features
+##Features
 
 - Add, edit, and delete products  
 - Add or remove products from wishlist  
@@ -16,7 +16,7 @@ All data is stored locally in `localStorage` — no external API required.
 
 ---
 
-## 🧩 Tech Stack
+##Tech Stack
 
 - **React.js**
 - **CSS3** for styling
