@@ -22,7 +22,3 @@ All data is stored locally in `localStorage` — no external API required.
 - **CSS3** for styling
 - **LocalStorage** for data persistence
 
----
-
-## 📂 Project Structure
-
