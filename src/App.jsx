@@ -78,7 +78,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <h1>🛍️ Product Manager</h1>
+      <h1>Product Manager</h1>
 
       <div className="wishlist-top">
         <h2>My Wishlist</h2>
